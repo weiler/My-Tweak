@@ -1,6 +1,6 @@
 #include "cs32.h"
 
-
+ 
 struct Thread pro[MAX_THREAD];
 
 
